@@ -1,0 +1,49 @@
+2024-01-18 13:30:01.100 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-01-18 13:30:01.613 [info] Started local extension host with pid 1756.
+2024-01-18 13:30:01.699 [warning] [stylelint.vscode-stylelint]: Cannot register 'stylelint.enable'. This property is already registered.
+2024-01-18 13:30:01.700 [warning] [stylelint.vscode-stylelint]: Cannot register 'stylelint.config'. This property is already registered.
+2024-01-18 13:30:02.515 [error] Unable to write to User Settings because appworks.materialSources is not a registered configuration.: CodeExpectedError: Unable to write to User Settings because appworks.materialSources is not a registered configuration.
+    at l.y (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:55124)
+    at l.E (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:57641)
+    at l.n (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:52237)
+    at Object.factory (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:52137)
+    at T.h (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:149:17315)
+    at vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:149:17226
+    at new Promise (<anonymous>)
+    at T.queue (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:149:17164)
+    at l.writeConfiguration (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:52106)
+    at F.Hb (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:77103)
+    at async Promise.all (index 0)
+    at async Object._ [as settled] (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:149:23305)
+    at async F.updateValue (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:65070)
+2024-01-18 13:30:04.424 [info] [perf] Render performance baseline is 142ms
+2024-01-18 13:30:06.795 [error] [Extension Host] [ERROR] [default] [2024-01-18T11:30:06.793Z] Extension activation failed: "Thank you for using GitHub Copilot. Your subscription has ended. You are currently logged in as cyb1ove."
+2024-01-18 13:31:34.974 [error] [Extension Host] grep: /usr/bin/groupmems: Permission denied
+grep: /usr/bin/umount.nfs4: Permission denied
+grep: /usr/bin/mount.nfs: Permission denied
+grep: /usr/bin/umount.nfs: Permission denied
+grep: /usr/bin/mount.nfs4: Permission denied
+grep: /usr/bin/floorp: No such file or directory
+2024-01-18 13:32:06.650 [error] [Extension Host] 4B869128074F517623D8AC9F232A3A2D !== C66F089F0A5345D433011A5B8A02BFB7
+2024-01-18 13:32:36.675 [error] [Extension Host] C66F089F0A5345D433011A5B8A02BFB7 !== EB0F848796FEDCCA34E47E6E4A659BC0
+2024-01-18 13:33:26.707 [error] [Extension Host] EB0F848796FEDCCA34E47E6E4A659BC0 !== CA2C5665983742892C8C5B2F1A17DB3E
+2024-01-18 13:33:56.734 [error] [Extension Host] CA2C5665983742892C8C5B2F1A17DB3E !== B33A0EE076B84EDBB1FB57A1041FBED0
+2024-01-18 13:34:26.759 [error] [Extension Host] B33A0EE076B84EDBB1FB57A1041FBED0 !== ECFD1CDEEC96A62EC333EBBE70750DF5
+2024-01-18 13:34:56.786 [error] [Extension Host] ECFD1CDEEC96A62EC333EBBE70750DF5 !== DE03DDB753384FD84E465F572C58EFFD
+2024-01-18 13:35:44.561 [error] [Extension Host] DE03DDB753384FD84E465F572C58EFFD !== B2DAB238D8E6570A3EB93272562F54EB
+2024-01-18 13:36:14.587 [error] [Extension Host] B2DAB238D8E6570A3EB93272562F54EB !== E0257D360496D80C8B0061F6BDA617C4
+2024-01-18 13:36:44.614 [error] [Extension Host] E0257D360496D80C8B0061F6BDA617C4 !== 019256DC5677FC262135C0D1EB32040E
+2024-01-18 13:37:14.640 [error] [Extension Host] 019256DC5677FC262135C0D1EB32040E !== 91F183B69B6803D8615C12144682122D
+2024-01-18 13:38:09.714 [error] [Extension Host] 91F183B69B6803D8615C12144682122D !== FD522EC90CEF683A29CA4847433251B4
+2024-01-18 13:39:18.067 [error] [Extension Host] FD522EC90CEF683A29CA4847433251B4 !== 1D34D5F4F4C0C2AB69D159D8FC263FC5
+2024-01-18 13:39:48.094 [error] [Extension Host] 1D34D5F4F4C0C2AB69D159D8FC263FC5 !== 92B789F8C5D79F3591747ECB250692AD
+2024-01-18 13:40:37.755 [error] [Extension Host] 92B789F8C5D79F3591747ECB250692AD !== 7A69EDF39F3742BDCBF79FC346BCB6A6
+2024-01-18 13:41:33.972 [error] [Extension Host] 7A69EDF39F3742BDCBF79FC346BCB6A6 !== 1D2EED488722AB7BE7910A5997321832
+2024-01-18 13:42:03.998 [error] [Extension Host] 1D2EED488722AB7BE7910A5997321832 !== 99517910CBFDDB04C3C134313DC26E7D
+2024-01-18 13:42:34.022 [error] [Extension Host] 99517910CBFDDB04C3C134313DC26E7D !== 9DC3749D7391B9E6E6F8231D15DAFAC2
+2024-01-18 13:43:04.050 [error] [Extension Host] 9DC3749D7391B9E6E6F8231D15DAFAC2 !== C458F2EAC9C73D42640F00C307DF4102
+2024-01-18 13:43:41.862 [error] [Extension Host] C458F2EAC9C73D42640F00C307DF4102 !== 0C3981CDD7F1398EE056D40E07314517
+2024-01-18 13:44:11.889 [error] [Extension Host] 0C3981CDD7F1398EE056D40E07314517 !== 501E06086D3CC5570E62D944431BB9D8
+2024-01-18 13:45:06.569 [error] [Extension Host] 501E06086D3CC5570E62D944431BB9D8 !== A3C19DCB2ACDD1EFDEAE9A1F9D9D0C43
+2024-01-18 13:45:36.596 [error] [Extension Host] A3C19DCB2ACDD1EFDEAE9A1F9D9D0C43 !== 8F507267E8DB8A8CA96FCAA5EDB853F0
+2024-01-18 13:46:06.621 [error] [Extension Host] 8F507267E8DB8A8CA96FCAA5EDB853F0 !== E201BEBC19A019C3931EA34782158A65

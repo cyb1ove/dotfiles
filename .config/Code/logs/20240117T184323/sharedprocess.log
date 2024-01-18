@@ -1,0 +1,15 @@
+2024-01-17 18:43:29.318 [info] Getting Manifest... github.copilot
+2024-01-17 18:43:29.613 [info] Installing extension: github.copilot
+2024-01-17 18:43:31.881 [info] Extension signature is verified: github.copilot
+2024-01-17 18:43:32.109 [info] Extracted extension to file:///home/cyb1ove/.vscode/extensions/github.copilot-1.150.0: github.copilot
+2024-01-17 18:43:32.123 [info] Renamed to /home/cyb1ove/.vscode/extensions/github.copilot-1.150.0
+2024-01-17 18:43:32.125 [info] Extracting extension completed. github.copilot
+2024-01-17 18:43:32.138 [info] Extension installed successfully: github.copilot
+2024-01-17 18:43:32.141 [info] Marked extension as uninstalled github.copilot-1.149.654
+2024-01-17 18:43:32.218 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cyb1ove/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cyb1ove/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

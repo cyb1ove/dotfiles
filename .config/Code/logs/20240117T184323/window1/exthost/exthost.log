@@ -1,0 +1,193 @@
+2024-01-17 18:43:24.512 [info] Extension host with pid 135517 started
+2024-01-17 18:43:24.512 [info] Skipping acquiring lock for /home/cyb1ove/.config/Code/User/workspaceStorage/7cd571e0338596273711c6f2ef452e19.
+2024-01-17 18:43:24.733 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-17 18:43:24.739 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+2024-01-17 18:43:24.752 [info] ExtensionService#_doActivateExtension hex-ci.stylelint-plus, startup: false, activationEvent: 'onLanguage:scss'
+2024-01-17 18:43:24.773 [info] ExtensionService#_doActivateExtension iceworks-team.iceworks-style-helper, startup: false, activationEvent: 'onLanguage:scss'
+2024-01-17 18:43:24.914 [info] ExtensionService#_doActivateExtension sibiraj-s.vscode-scss-formatter, startup: false, activationEvent: 'onLanguage:scss'
+2024-01-17 18:43:25.061 [error] CodeExpectedError: Unable to write to User Settings because appworks.materialSources is not a registered configuration.
+    at l.y (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:55124)
+    at l.E (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:57641)
+    at l.n (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:52237)
+    at Object.factory (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:52137)
+    at T.h (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:149:17315)
+    at vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:149:17226
+    at new Promise (<anonymous>)
+    at T.queue (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:149:17164)
+    at l.writeConfiguration (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:52106)
+    at F.Hb (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:77103)
+    at async Promise.all (index 0)
+    at async Object._ [as settled] (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:149:23305)
+    at async F.updateValue (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:65070)
+2024-01-17 18:43:25.291 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-17 18:43:25.293 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-01-17 18:43:25.300 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-01-17 18:43:25.302 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-01-17 18:43:25.311 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-01-17 18:43:25.314 [info] ExtensionService#_doActivateExtension kaisun.vscodevimacademy, startup: true, activationEvent: '*'
+2024-01-17 18:43:25.394 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+2024-01-17 18:43:25.402 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-01-17 18:43:25.411 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-01-17 18:43:25.412 [info] ExtensionService#_doActivateExtension rwu823.open-folder, startup: true, activationEvent: '*'
+2024-01-17 18:43:25.436 [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+2024-01-17 18:43:25.438 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-01-17 18:43:25.445 [info] ExtensionService#_doActivateExtension lokalise.i18n-ally, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-01-17 18:43:25.710 [info] ExtensionService#_doActivateExtension planbcoding.vscode-react-refactor, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-01-17 18:43:26.029 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-17 18:43:26.049 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-17 18:43:26.168 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-01-17 18:43:26.278 [info] Eager extensions activated
+2024-01-17 18:43:26.309 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:26.310 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:26.315 [info] ExtensionService#_doActivateExtension chouzz.vscode-better-align, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:26.320 [info] ExtensionService#_doActivateExtension cweijan.vscode-database-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:26.490 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:26.496 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:26.519 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:26.540 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:26.595 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:26.620 [info] ExtensionService#_doActivateExtension Postman.postman-for-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:27.436 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:27.439 [info] ExtensionService#_doActivateExtension stylelint.vscode-stylelint, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:27.458 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:27.460 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:27.476 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:27.511 [info] ExtensionService#_doActivateExtension vunguyentuan.vscode-css-variables, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:43:27.846 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-17 18:43:27.858 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-17 18:43:45.692 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-17 18:43:45.736 [warning] Canceled
+2024-01-17 18:43:45.738 [error] Canceled: Canceled
+    at new g (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+    at l.U (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+    at Proxy.P.<computed>.j.charCodeAt.P.<computed> (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+    at d.g (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+    at d.executeCommand (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at p.registerCommand.description (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+    at d.h (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+    at d.g (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+    at d.executeCommand (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at Object.executeCommand (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+    at w (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:1077:40599)
+    at h (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:1077:45646)
+    at ActionRunners._updateContextKeys (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:17278)
+    at s (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:15722)
+    at RegisteredActionRunner.unregister (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:15865)
+    at RegisteredActionRunner.dispose (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:14518)
+    at ActionRunners.dispose (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:15305)
+    at /home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:1037:19246
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:1037:19228)
+    at s (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at f.cb (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+    at /var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+    at Array.map (<anonymous>)
+    at f.Y (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+    at f.terminate (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+    at s.terminate (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+    at a (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+    at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-01-17 18:43:45.739 [error] Canceled: Canceled
+    at new g (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+    at l.U (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+    at Proxy.P.<computed>.j.charCodeAt.P.<computed> (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+    at d.g (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+    at d.executeCommand (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at p.registerCommand.description (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+    at d.h (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+    at d.g (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+    at d.executeCommand (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at Object.executeCommand (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+    at w (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:1077:40599)
+    at h (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:1077:45646)
+    at ActionRunners._updateContextKeys (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:17278)
+    at s (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:15722)
+    at RegisteredActionRunner.unregister (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:15865)
+    at RegisteredActionRunner.dispose (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:14518)
+    at ActionRunners.dispose (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:15305)
+    at /home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:1037:19246
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:1037:19228)
+    at s (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at f.cb (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+    at /var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+    at Array.map (<anonymous>)
+    at f.Y (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+    at f.terminate (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+    at s.terminate (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+    at a (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+    at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-01-17 18:43:45.739 [error] Canceled: Canceled
+    at new g (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+    at l.U (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+    at Proxy.P.<computed>.j.charCodeAt.P.<computed> (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+    at d.g (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+    at d.executeCommand (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at p.registerCommand.description (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+    at d.h (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+    at d.g (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+    at d.executeCommand (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at Object.executeCommand (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+    at w (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:1077:40599)
+    at h (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:1077:45646)
+    at ActionRunners._updateContextKeys (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:17278)
+    at s (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:15722)
+    at RegisteredActionRunner.unregister (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:15865)
+    at RegisteredActionRunner.dispose (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:14518)
+    at ActionRunners.dispose (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:663:15305)
+    at /home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:1037:19246
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1/dist/gitlens.js:1037:19228)
+    at s (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at f.cb (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+    at /var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+    at Array.map (<anonymous>)
+    at f.Y (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+    at f.terminate (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+    at s.terminate (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+    at a (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+    at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-01-17 18:43:45.740 [error] Canceled: Canceled
+    at new g (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+    at l.U (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+    at Proxy.P.<computed>.j.charCodeAt.P.<computed> (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+    at d.g (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+    at d.executeCommand (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at p.registerCommand.description (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+    at d.h (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+    at d.g (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+    at d.executeCommand (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+    at Object.executeCommand (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+    at Object.dispose (/home/cyb1ove/.vscode/extensions/wallabyjs.quokka-vscode-1.0.615/dist/index.js:6:77552)
+    at /home/cyb1ove/.vscode/extensions/wallabyjs.quokka-vscode-1.0.615/dist/index.js:6:11944
+    at Array.forEach (<anonymous>)
+    at t.exports.dispose (/home/cyb1ove/.vscode/extensions/wallabyjs.quokka-vscode-1.0.615/dist/index.js:6:11931)
+    at I.deactivate (/home/cyb1ove/.vscode/extensions/wallabyjs.quokka-vscode-1.0.615/dist/index.js:6:78819)
+    at Object.dispose (/home/cyb1ove/.vscode/extensions/wallabyjs.quokka-vscode-1.0.615/dist/index.js:6:1420)
+    at /home/cyb1ove/.vscode/extensions/wallabyjs.quokka-vscode-1.0.615/dist/index.js:6:11944
+    at Array.forEach (<anonymous>)
+    at t.exports.dispose (/home/cyb1ove/.vscode/extensions/wallabyjs.quokka-vscode-1.0.615/dist/index.js:6:11931)
+    at deactivate (/home/cyb1ove/.vscode/extensions/wallabyjs.quokka-vscode-1.0.615/dist/index.js:6:1605)
+    at Object.dispose (/home/cyb1ove/.vscode/extensions/wallabyjs.quokka-vscode-1.0.615/dist/index.js:6:1680)
+    at s (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+    at f.cb (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+    at /var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+    at Array.map (<anonymous>)
+    at f.Y (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+    at f.terminate (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+    at s.terminate (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+    at a (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+    at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-01-17 18:43:45.759 [info] Extension host with pid 135517 exiting with code 0

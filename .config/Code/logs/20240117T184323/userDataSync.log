@@ -1,0 +1,57 @@
+2024-01-17 18:43:24.225 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-01-17 18:43:24.225 [info] Auto Sync is enabled.
+2024-01-17 18:43:24.225 [info] Auto Sync: Suspended until auth token is available.
+2024-01-17 18:43:24.585 [info] Deleting non existing profile from backup /home/cyb1ove/.config/Code/User/sync/extensions
+2024-01-17 18:43:24.588 [info] Deleting non existing profile from backup /home/cyb1ove/.config/Code/User/sync/globalState
+2024-01-17 18:43:24.588 [info] Deleting non existing profile from backup /home/cyb1ove/.config/Code/User/sync/keybindings
+2024-01-17 18:43:24.590 [info] Deleting non existing profile from backup /home/cyb1ove/.config/Code/User/sync/profiles
+2024-01-17 18:43:24.592 [info] Deleting non existing profile from backup /home/cyb1ove/.config/Code/User/sync/settings
+2024-01-17 18:43:24.592 [info] Deleting non existing profile from backup /home/cyb1ove/.config/Code/User/sync/snippets
+2024-01-17 18:43:24.593 [info] Deleting non existing profile from backup /home/cyb1ove/.config/Code/User/sync/tasks
+2024-01-17 18:43:26.308 [info] Auto Sync: Triggered by Interval
+2024-01-17 18:43:26.308 [info] Sync started.
+2024-01-17 18:43:26.813 [info] Settings: Last sync resource does not exist locally.
+2024-01-17 18:43:26.960 [info] Settings: No changes found during synchronizing settings.
+2024-01-17 18:43:26.962 [info] Keybindings: Last sync resource does not exist locally.
+2024-01-17 18:43:27.465 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-01-17 18:43:27.467 [info] Snippets: Last sync resource does not exist locally.
+2024-01-17 18:43:27.555 [info] Snippets: No changes found during synchronizing snippets.
+2024-01-17 18:43:27.556 [info] Tasks: Last sync resource does not exist locally.
+2024-01-17 18:43:27.637 [info] Tasks: No changes found during synchronizing tasks.
+2024-01-17 18:43:27.638 [info] GlobalState: Last sync resource does not exist locally.
+2024-01-17 18:43:27.751 [info] GlobalState: No changes found during synchronizing ui state.
+2024-01-17 18:43:27.753 [info] Extensions: Last sync resource does not exist locally.
+2024-01-17 18:43:27.907 [info] Extensions: No changes found during synchronizing extensions.
+2024-01-17 18:43:27.909 [info] Profiles: Last sync resource does not exist locally.
+2024-01-17 18:43:27.988 [info] Profiles: No changes found during synchronizing profiles.
+2024-01-17 18:43:27.989 [info] Syncing profile. gwegw
+2024-01-17 18:43:28.007 [info] Keybindings (gwegw): No changes found during synchronizing keybindings.
+2024-01-17 18:43:28.035 [info] GlobalState (gwegw): No changes found during synchronizing ui state.
+2024-01-17 18:43:28.036 [info] Syncing profile. test
+2024-01-17 18:43:28.043 [info] Settings (test): No changes found during synchronizing settings.
+2024-01-17 18:43:28.061 [info] Keybindings (test): No changes found during synchronizing keybindings.
+2024-01-17 18:43:28.064 [info] Snippets (test): No changes found during synchronizing snippets.
+2024-01-17 18:43:28.067 [info] Tasks (test): No changes found during synchronizing tasks.
+2024-01-17 18:43:28.076 [info] GlobalState (test): No changes found during synchronizing ui state.
+2024-01-17 18:43:28.140 [info] Extensions (test): No changes found during synchronizing extensions.
+2024-01-17 18:43:28.141 [info] Sync done. Took 1834ms
+2024-01-17 18:43:45.383 [info] Auto Sync: Triggered by Activity
+2024-01-17 18:43:45.383 [info] Sync started.
+2024-01-17 18:43:45.496 [info] Settings: No changes found during synchronizing settings.
+2024-01-17 18:43:45.508 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-01-17 18:43:45.513 [info] Snippets: No changes found during synchronizing snippets.
+2024-01-17 18:43:45.515 [info] Tasks: No changes found during synchronizing tasks.
+2024-01-17 18:43:45.519 [info] GlobalState: No changes found during synchronizing ui state.
+2024-01-17 18:43:45.598 [info] Extensions: No changes found during synchronizing extensions.
+2024-01-17 18:43:45.600 [info] Profiles: No changes found during synchronizing profiles.
+2024-01-17 18:43:45.601 [info] Syncing profile. gwegw
+2024-01-17 18:43:45.603 [info] Keybindings (gwegw): No changes found during synchronizing keybindings.
+2024-01-17 18:43:45.622 [info] GlobalState (gwegw): No changes found during synchronizing ui state.
+2024-01-17 18:43:45.622 [info] Syncing profile. test
+2024-01-17 18:43:45.626 [info] Settings (test): No changes found during synchronizing settings.
+2024-01-17 18:43:45.628 [info] Keybindings (test): No changes found during synchronizing keybindings.
+2024-01-17 18:43:45.630 [info] Snippets (test): No changes found during synchronizing snippets.
+2024-01-17 18:43:45.631 [info] Tasks (test): No changes found during synchronizing tasks.
+2024-01-17 18:43:45.635 [info] GlobalState (test): No changes found during synchronizing ui state.
+2024-01-17 18:43:45.669 [info] Extensions (test): No changes found during synchronizing extensions.
+2024-01-17 18:43:45.670 [info] Sync done. Took 287ms

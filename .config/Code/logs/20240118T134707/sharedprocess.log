@@ -1,0 +1,10 @@
+2024-01-18 13:47:09.486 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.6.1
+2024-01-18 13:47:09.487 [info] Deleted uninstalled extension from disk cweijan.vscode-database-client2 /home/cyb1ove/.vscode/extensions/cweijan.vscode-database-client2-7.0.0
+2024-01-18 13:47:09.487 [info] Deleted uninstalled extension from disk github.copilot /home/cyb1ove/.vscode/extensions/github.copilot-1.150.0
+2024-01-18 13:47:09.492 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cyb1ove/.vscode/extensions/cweijan.vscode-database-client2-7.0.0.-d5cd55a.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cyb1ove/.vscode/extensions/cweijan.vscode-database-client2-7.0.0.-d5cd55a.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

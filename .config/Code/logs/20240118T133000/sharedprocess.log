@@ -1,0 +1,38 @@
+2024-01-18 13:30:06.583 [info] Getting Manifest... cweijan.vscode-database-client2
+2024-01-18 13:30:06.586 [info] Getting Manifest... eamodio.gitlens
+2024-01-18 13:30:06.587 [info] Getting Manifest... github.copilot
+2024-01-18 13:30:06.697 [info] Installing extension: github.copilot
+2024-01-18 13:30:06.732 [info] Installing extension: eamodio.gitlens
+2024-01-18 13:30:06.803 [info] Installing extension: cweijan.vscode-database-client2
+2024-01-18 13:30:09.246 [info] Extension signature is verified: eamodio.gitlens
+2024-01-18 13:30:09.246 [info] Extension signature is verified: cweijan.vscode-database-client2
+2024-01-18 13:30:09.602 [info] Extracted extension to file:///home/cyb1ove/.vscode/extensions/cweijan.vscode-database-client2-7.0.1: cweijan.vscode-database-client2
+2024-01-18 13:30:09.607 [info] Renamed to /home/cyb1ove/.vscode/extensions/cweijan.vscode-database-client2-7.0.1
+2024-01-18 13:30:09.609 [info] Extracting extension completed. cweijan.vscode-database-client2
+2024-01-18 13:30:09.620 [info] Extension installed successfully: cweijan.vscode-database-client2
+2024-01-18 13:30:09.625 [info] Marked extension as uninstalled cweijan.vscode-database-client2-7.0.0
+2024-01-18 13:30:09.662 [info] Extracted extension to file:///home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.7.0: eamodio.gitlens
+2024-01-18 13:30:09.693 [info] Renamed to /home/cyb1ove/.vscode/extensions/eamodio.gitlens-14.7.0
+2024-01-18 13:30:09.719 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cyb1ove/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cyb1ove/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-18 13:30:09.758 [info] Extracting extension completed. eamodio.gitlens
+2024-01-18 13:30:09.791 [info] Extension signature is verified: github.copilot
+2024-01-18 13:30:09.796 [info] Extension installed successfully: eamodio.gitlens
+2024-01-18 13:30:09.811 [info] Marked extension as uninstalled eamodio.gitlens-14.6.1
+2024-01-18 13:30:10.098 [info] Extracted extension to file:///home/cyb1ove/.vscode/extensions/github.copilot-1.151.0: github.copilot
+2024-01-18 13:30:10.102 [info] Renamed to /home/cyb1ove/.vscode/extensions/github.copilot-1.151.0
+2024-01-18 13:30:10.103 [info] Extracting extension completed. github.copilot
+2024-01-18 13:30:10.110 [info] Extension installed successfully: github.copilot
+2024-01-18 13:30:10.112 [info] Marked extension as uninstalled github.copilot-1.150.0
+2024-01-18 13:30:10.213 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cyb1ove/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cyb1ove/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

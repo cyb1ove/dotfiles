@@ -1,0 +1,60 @@
+2024-01-17 18:51:56.215 [info] Extension host with pid 138970 started
+2024-01-17 18:51:56.215 [info] Skipping acquiring lock for /home/cyb1ove/.config/Code/User/workspaceStorage/7cd571e0338596273711c6f2ef452e19.
+2024-01-17 18:51:56.444 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-17 18:51:56.450 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+2024-01-17 18:51:56.459 [info] ExtensionService#_doActivateExtension hex-ci.stylelint-plus, startup: false, activationEvent: 'onLanguage:scss'
+2024-01-17 18:51:56.476 [info] ExtensionService#_doActivateExtension iceworks-team.iceworks-style-helper, startup: false, activationEvent: 'onLanguage:scss'
+2024-01-17 18:51:56.590 [info] ExtensionService#_doActivateExtension sibiraj-s.vscode-scss-formatter, startup: false, activationEvent: 'onLanguage:scss'
+2024-01-17 18:51:56.726 [error] CodeExpectedError: Unable to write to User Settings because appworks.materialSources is not a registered configuration.
+    at l.y (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:55124)
+    at l.E (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:57641)
+    at l.n (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:52237)
+    at Object.factory (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:52137)
+    at T.h (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:149:17315)
+    at vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:149:17226
+    at new Promise (<anonymous>)
+    at T.queue (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:149:17164)
+    at l.writeConfiguration (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:52106)
+    at F.Hb (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:77103)
+    at async Promise.all (index 0)
+    at async Object._ [as settled] (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:149:23305)
+    at async F.updateValue (vscode-file://vscode-app/var/lib/snapd/snap/code/148/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2128:65070)
+2024-01-17 18:51:56.929 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-17 18:51:56.931 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-01-17 18:51:56.938 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-01-17 18:51:56.939 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-01-17 18:51:56.945 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-01-17 18:51:56.948 [info] ExtensionService#_doActivateExtension kaisun.vscodevimacademy, startup: true, activationEvent: '*'
+2024-01-17 18:51:57.029 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+2024-01-17 18:51:57.037 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-01-17 18:51:57.046 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-01-17 18:51:57.047 [info] ExtensionService#_doActivateExtension rwu823.open-folder, startup: true, activationEvent: '*'
+2024-01-17 18:51:57.077 [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+2024-01-17 18:51:57.080 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-01-17 18:51:57.086 [info] ExtensionService#_doActivateExtension lokalise.i18n-ally, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-01-17 18:51:57.292 [info] ExtensionService#_doActivateExtension planbcoding.vscode-react-refactor, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-01-17 18:51:57.615 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-17 18:51:57.633 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-17 18:51:57.918 [info] Eager extensions activated
+2024-01-17 18:51:57.975 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:57.976 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:57.982 [info] ExtensionService#_doActivateExtension chouzz.vscode-better-align, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:57.987 [info] ExtensionService#_doActivateExtension cweijan.vscode-database-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:58.196 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:58.204 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:58.240 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:58.265 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:58.531 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:58.559 [info] ExtensionService#_doActivateExtension Postman.postman-for-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:59.289 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:59.292 [info] ExtensionService#_doActivateExtension stylelint.vscode-stylelint, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:59.307 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:59.309 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:59.322 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:59.355 [info] ExtensionService#_doActivateExtension vunguyentuan.vscode-css-variables, startup: false, activationEvent: 'onStartupFinished'
+2024-01-17 18:51:59.682 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-01-17 18:52:00.237 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-17 18:52:00.253 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-17 18:52:45.762 [info] ExtensionService#_doActivateExtension firefox-devtools.vscode-firefox-debug, startup: false, activationEvent: 'onDebug'
+2024-01-17 18:52:45.780 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2024-01-17 18:52:45.781 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:chrome'
