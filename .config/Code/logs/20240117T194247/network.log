@@ -1,9 +1,0 @@
-2024-01-18 03:19:30.429 [error] electron #84: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
-2024-01-18 03:19:41.675 [error] electron #85: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
-2024-01-18 10:10:51.313 [error] electron #348: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
-2024-01-18 10:10:53.314 [error] electron #349: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
-2024-01-18 10:10:56.589 [error] electron #350: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
-2024-01-18 11:53:15.384 [error] electron #797: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
-2024-01-18 12:25:35.791 [error] electron #945: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
-2024-01-18 13:27:19.941 [error] electron #1021: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NETWORK_CHANGED
-2024-01-18 13:27:22.005 [error] electron #1022: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED

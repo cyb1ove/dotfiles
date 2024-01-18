@@ -1,9 +1,0 @@
-2024-01-17 18:51:29.786 [info] Extension host with pid 138436 started
-2024-01-17 18:51:29.786 [info] Skipping acquiring lock for /home/cyb1ove/.config/Code/User/workspaceStorage/7cd571e0338596273711c6f2ef452e19.
-2024-01-17 18:51:30.311 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2024-01-17 18:51:30.317 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
-2024-01-17 18:51:30.326 [info] ExtensionService#_doActivateExtension hex-ci.stylelint-plus, startup: false, activationEvent: 'onLanguage:scss'
-2024-01-17 18:51:30.347 [info] ExtensionService#_doActivateExtension iceworks-team.iceworks-style-helper, startup: false, activationEvent: 'onLanguage:scss'
-2024-01-17 18:51:30.459 [info] ExtensionService#_doActivateExtension sibiraj-s.vscode-scss-formatter, startup: false, activationEvent: 'onLanguage:scss'
-2024-01-17 18:51:30.492 [info] Extension host terminating: renderer closed the MessagePort
-2024-01-17 18:51:30.495 [info] Extension host with pid 138436 exiting with code 0

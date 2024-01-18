@@ -1,4 +1,0 @@
-2024-01-18 13:47:13.960 [error] Unable to find /path/to/im-select. Check your 'vim.autoSwitchInputMethod.obtainIMCmd' in VSCode setting.
-2024-01-18 13:47:13.960 [error] vim.autoSwitchInputMethod.defaultIM is empty.
-2024-01-18 13:47:14.182 [info] /home/cyb1ove/.config/Code/User/settings.json closed
-2024-01-18 13:47:17.032 [info] /home/cyb1ove/.config/Code/User/keybindings.json closed

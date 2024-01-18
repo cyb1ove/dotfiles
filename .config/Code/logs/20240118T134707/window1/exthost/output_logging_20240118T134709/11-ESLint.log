@@ -1,8 +1,0 @@
-[Info  - 1:47:13 PM] ESLint server is starting.
-[Info  - 1:47:13 PM] ESLint server running in node v18.15.0
-[Info  - 1:47:13 PM] ESLint server is running.
-[Info  - 1:47:15 PM] ESLint library loaded from: /home/cyb1ove/Projects/commdiva/clientapp_v2/node_modules/eslint/lib/api.js
-[Warn  - 1:47:15 PM] 
-No ESLint configuration (e.g .eslintrc) found for file: /home/cyb1ove/Projects/commdiva/clientapp_v2/src/containers/Chat/components/ChatTimeline/interactions/IncomingMessage.js
-File will not be validated. Consider running 'eslint --init' in the workspace folder clientapp_v2
-Alternatively you can disable ESLint by executing the 'Disable ESLint' command.

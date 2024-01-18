@@ -1,6 +1,0 @@
-2024/01/14-14:43:25.418 5dc3e Creating DB /home/cyb1ove/.config/chromium/Default/WebStorage/1/IndexedDB/indexeddb.leveldb since it was missing.
-2024/01/14-14:43:25.421 5dc3e Reusing MANIFEST /home/cyb1ove/.config/chromium/Default/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/01/14-14:53:38.050 5dc3e Level-0 table #5: started
-2024/01/14-14:53:38.052 5dc3e Level-0 table #5: 9496 bytes OK
-2024/01/14-14:53:38.053 5dc3e Delete type=0 #3
-2024/01/14-14:53:38.054 5dc3e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
