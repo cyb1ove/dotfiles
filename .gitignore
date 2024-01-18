@@ -1,0 +1,13 @@
+# Ignore everything by default
+/*
+/*/
+
+# Linux config
+!/.config
+.config/Code
+.config/chromium
+.config/google-chrome
+!.bashrc
+!.xprofile
+!.profile
+!.gitignore
