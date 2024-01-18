@@ -89,4 +89,7 @@ _open_files_for_editing() {
 # alias pacdiff=eos-pacdiff
 ################################################################################
 
+<<<<<<< HEAD
 alias dotfiles='/usr/bin/git --git-dir=/home/cyb1ove/.dotfiles/ --work-tree=/home/cyb1ove'
+=======
+>>>>>>> de9d3e5 (remove nonessential folders)
